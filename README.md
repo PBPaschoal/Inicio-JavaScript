@@ -7,6 +7,6 @@
  # PROGRAMAÇÃO
  ![JS](https://i.ibb.co/b1f2MYy/javascript.png)
  
- ## OUTROS
+ # OUTROS
 ![GIT](https://i.ibb.co/cNJmzHT/Git-Icon-1788-C.png)
 ![GITHUB](https://i.ibb.co/7WfKFyM/github2.png)
